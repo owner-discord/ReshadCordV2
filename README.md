@@ -1,2 +1,2 @@
 # ReshadCordV2
-# FREE ReshadCordV2
+FREE ReshadCordV2
