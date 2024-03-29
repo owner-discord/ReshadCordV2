@@ -1,10 +1,11 @@
 <div align="center">
+# ReshadCordV2
 
 # [DISCLAIMER]
 PROGRAM CREATED FOR EDUCATIONAL PURPOSES ONLY! THE AUTHOR IS NOT RESPONSIBLE FOR THE USE OF THIS SOFTWARE!
 
 # [INFO]
-Hello! This repository is a modified version of the "44CALIBER" stealer... In this modified version, I fixed some issues with the original stealer...
+Hello! ...
 
 Changes:
 
@@ -15,10 +16,10 @@ To receive logs, you need to go to "Resources/Discord/DiscordWebhook.cs", then c
 
 Log format:
 
-/![Image alt](https://github.com/dxeglow/44CALIBER-MODIFED/blob/main/log.png)
+/![Image alt]()
 
 # [CREDITS]
-/[Original repository link](https://github.com/razexgod/44CALIBER)
+/[Original repository link]()
 
 # ReshadCordV2
 FREE ReshadCordV2
