@@ -41,6 +41,5 @@ If it didn't work, email me - nrxlvyyXzzz@gmail.com
 ----------------------------------------------------------------------------------------------------
 # [LOG]
 ----------------------------------------------------------------------------------------------------
-Log format:
 
 ![Image alt](https://github.com/owner-discord/ReshadCordV2/blob/main/log.png)
