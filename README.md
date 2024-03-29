@@ -25,4 +25,4 @@ Hello! This is a Dox Discord Tull made according to the mechanics of other Disco
 ----------------------------------------------------------------------------------------------------
 Log format:
 
-![Image alt](https://github.com/owner-discord/ReshadCordV2/blob/main/image.png)
+![Image alt]()
