@@ -17,7 +17,7 @@ Hello! This is a Dox Discord Tull made according to the mechanics of other Disco
 
 To start the program, download the ReshadCordV2 archiver.
 Unzip to any location on the computer, then launch it
-ReshadCord but # DISCORD MUST BE OFF.
+ReshadCord but DISCORD MUST BE OFF.
 
 ----------------------------------------------------------------------------------------------------
 # [NOT WORK]
